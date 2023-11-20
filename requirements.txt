@@ -1,0 +1,16 @@
+Flask
+matplotlib
+seaborn
+pandas
+numpy
+scikit_learn
+pandas
+Numpy
+Seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+dill
+Flask
+-e .
